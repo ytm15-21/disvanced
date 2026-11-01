@@ -24,24 +24,24 @@ YouTube DisVanced needs these apps to work properly:
 
 ### Non-root versions
 
-[YouTube Vanced 19.29.40 (Dark)](https://github.com/ytm15-21/disvanced/tree/main/nonroot/youtube-vanced/dark.apk)
+[YouTube Vanced 19.29.40 (Dark)](https://github.com/ytm15-21/disvanced/blob/main/nonroot/youtube-vanced/dark.apk)
 
-[YouTube Vanced 19.29.40 (Black)](https://github.com/ytm15-21/disvanced/tree/main/nonroot/youtube-vanced/black.apk)
+[YouTube Vanced 19.29.40 (Black)](https://github.com/ytm15-21/disvanced/blob/main/nonroot/youtube-vanced/black.apk)
 
-[YouTube Music Vanced 6.50.51](https://github.com/ytm15-21/disvanced/tree/main/nonroot/youtube-music-vanced/nonroot.apk)
+[YouTube Music Vanced 6.50.51](https://github.com/ytm15-21/disvanced/blob/main/nonroot/youtube-music-vanced/nonroot.apk)
 
 ### Root versions
 
-[YouTube Vanced 19.29.40 (Dark)](https://github.com/ytm15-21/disvanced/tree/main/root/youtube-vanced/dark.apk)
+[YouTube Vanced 19.29.40 (Dark)](https://github.com/ytm15-21/disvanced/blob/main/root/youtube-vanced/dark.apk)
 
-[YouTube Vanced 19.29.40 (Black)](https://github.com/ytm15-21/disvanced/tree/main/root/youtube-vanced/black.apk)
+[YouTube Vanced 19.29.40 (Black)](https://github.com/ytm15-21/disvanced/blob/main/root/youtube-vanced/black.apk)
 
-[YouTube Music Vanced 6.50.51](https://github.com/ytm15-21/disvanced/tree/main/root/youtube-music-vanced/root.apk)
+[YouTube Music Vanced 6.50.51](https://github.com/ytm15-21/disvanced/blob/main/root/youtube-music-vanced/root.apk)
 
 ### Additionally
 
 [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/tag/v0.2.24.220220-220220001)
 
-[YouTube Vanced default settings file](https://github.com/ytm15-21/disvanced/tree/main/settings/youtube_vanced_default_settings.txt)
+[YouTube Vanced default settings file](https://github.com/ytm15-21/disvanced/blob/main/settings/youtube_vanced_default_settings.txt)
 
-[YouTube Music Vanced default settings file](https://github.com/ytm15-21/disvanced/tree/main/settings/youtube_music_vanced_default_settings.txt)
+[YouTube Music Vanced default settings file](https://github.com/ytm15-21/disvanced/blob/main/settings/youtube_music_vanced_default_settings.txt)
