@@ -9,11 +9,18 @@ YouTube DisVanced is a project made by me to recreate the original YouTube/YouTu
 ## Recreation list
 
 With this I:
-- Changed dependency of MicroG to original Vanced MicroG (com.mgoogle.android.gms)
-- Changed YouTube and YouTube Music Vanced package name to the original one (com.vanced.android.youtube and com.vanced.android.apps.youtube.music)
-- Added YouTube and YouTube Music Vanced launcher icons and old YouTube app icons (Outline)
+- Changed dependency of MicroG to original Vanced MicroG (com.mgoogle.android.gms, by changing patching options)
+- Changed YouTube and YouTube Music Vanced package name to the original one (com.vanced.android.youtube and com.vanced.android.apps.youtube.music, by changing patching options)
+- Added YouTube and YouTube Music Vanced launcher icons and old YouTube app icons (Outline, by changing patching options and replacing resources in APKTool)
 - Recreated the old YouTube design (By changing patching options and default enabled settings)
 - Enabled YouTube and YouTube Music Vanced default settings (By changing default enabled settings)
+
+## Tools used
+
+YouTube DisVanced uses these tools to be developed:
+- ReVanced Manager
+- APKTool
+- Uber APK Signer
 
 ## Dependencies
 
